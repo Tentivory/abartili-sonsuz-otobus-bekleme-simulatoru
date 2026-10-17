@@ -23,7 +23,7 @@ def bekle():
                 "Belki bugün gelmez.",
                 "Komşu durakta gördüm diye yalan söyleme.",
                 "Yürümek de bir seçenek. Ama yürümezsin.",
-                "Sistem çöktü mü yoksa sen mi?".
+                "Sistem çöktü mü yoksa sen mi?",
                 "Belki de otobüs senin için gelmiyor."
             ]
             print(f"   💭 {random.choice(yorumlar)}")
